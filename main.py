@@ -2,15 +2,13 @@ import telebot
 from telebot import types
 from spellchecker import SpellChecker
 from textblob import TextBlob
-import re
 from string import digits
-from telebot import util
 
 bot = telebot.TeleBot("5919000419:AAEvJ9Lo1CuYNmk8tcdtUdvnySJwJW_lgN8")
 spell = SpellChecker("en")
 # def reversed_text(message):
 #   a.append(message.text)
-#   
+#  
 #   txt = message.text[::-1]
 #   return txt
 
