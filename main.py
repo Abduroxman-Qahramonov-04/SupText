@@ -6,9 +6,8 @@ import re
 from string import digits
 from telebot import util
 
-bot = telebot.TeleBot("")
+bot = telebot.TeleBot("5919000419:AAEvJ9Lo1CuYNmk8tcdtUdvnySJwJW_lgN8")
 spell = SpellChecker("en")
-# a = []
 # def reversed_text(message):
 #   a.append(message.text)
 #   print(a)
