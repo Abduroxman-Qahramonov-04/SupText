@@ -10,7 +10,7 @@ bot = telebot.TeleBot("5919000419:AAEvJ9Lo1CuYNmk8tcdtUdvnySJwJW_lgN8")
 spell = SpellChecker("en")
 # def reversed_text(message):
 #   a.append(message.text)
-#   print(a)
+#   
 #   txt = message.text[::-1]
 #   return txt
 
